@@ -1,7 +1,7 @@
 # turkish-sentiment-analysis-with-bert
 Simple NLP project. Turkish sentiment analysis with bert.
 
-Accuracy: 0.71
+Train Accuracy: 0.71
 
 Dataset https://www.kaggle.com/burhanbilenn/duygu-analizi-icin-urun-yorumlari
 
